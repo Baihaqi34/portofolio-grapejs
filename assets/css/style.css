@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  body {
+    margin: 0;
+  }
+  .title-font.sm\:text-4xl.text-3xl.mb-2.font-medium.text-white-900{
+    font-size:20px;
+  }
+  .mb-8.leading-relaxed{
+    font-size:20px;
+  }
+  .h-full.p-8.rounded.bg-indigo-200.d-flex.items-center.justify-center{
+    display:flex;
+    flex-direction:row;
+    float:none;
+    flex-wrap:wrap;
+    align-items:center;
+    align-content:center;
+  }
+  
