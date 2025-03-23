@@ -19,4 +19,12 @@
     align-items:center;
     align-content:center;
   }
+
+
+  @media (max-width: 640px) { /* Untuk layar mobile */
+    header {
+      display: none; /* Contoh: sembunyikan elemen */
+    }
+  }
+  
   
