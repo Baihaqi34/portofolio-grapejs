@@ -21,7 +21,7 @@
   }
 
 
-  @media (max-width: 640px) { /* Untuk layar mobile */
+  @media (min-width: 480px) { /* Untuk layar mobile */
     header nav {
       display: none; /* Contoh: sembunyikan elemen */
     }
